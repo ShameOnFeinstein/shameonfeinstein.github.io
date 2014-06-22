@@ -162,7 +162,7 @@ window.petition.submitSingature = function(){
 //     return;
 //   }
 
-// }
+}
 
 // $(function(){
 //     $("[data-hide]").on("click", function(){
@@ -170,7 +170,7 @@ window.petition.submitSingature = function(){
 //         // -or-, see below
 //         // $(this).closest("." + $(this).attr("data-hide")).hide();
 //     });
-});
+// });
 
 
 // $(document).ready(function() {
